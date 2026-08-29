@@ -6,3 +6,4 @@ jupyterlab
 openpyxl
 scipy
 torch
+scikit-learn
